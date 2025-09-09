@@ -53,7 +53,7 @@ Salut ! Je suis **Grégoire Hernu**, un développeur web passionné spécialisé
         <h3 align="center">🔒 Système de Sécurité Web</h3>
         <p align="center">
           <a href="#" target="_blank">
-            <img src="https://speed.grgoire.fr/projectbox1.png" width="100%" alt="Security System"/>
+            <img src="https://speed.grgoire.fr/email/projectbox1.png" width="100%" alt="Security System"/>
           </a>
         </p>
         <p align="center">
@@ -71,7 +71,7 @@ Salut ! Je suis **Grégoire Hernu**, un développeur web passionné spécialisé
         <h3 align="center">🎨 Portfolio Interactif</h3>
         <p align="center">
           <a href="#" target="_blank">
-            <img src="https://speed.grgoire.fr/projectbox2.png" width="100%" alt="Portfolio"/>
+            <img src="https://speed.grgoire.fr/email/projectbox2.png" width="100%" alt="Portfolio"/>
           </a>
         </p>
         <p align="center">
@@ -140,5 +140,5 @@ Salut ! Je suis **Grégoire Hernu**, un développeur web passionné spécialisé
 ---
 
 <div align="center">
-  <img src="https://speed.grgoire.fr/footer.png" alt="Footer" width="100%" />
+  <img src="https://speed.grgoire.fr/email/footer.png" alt="Footer" width="100%" />
 </div>
