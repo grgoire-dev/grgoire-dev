@@ -1,66 +1,100 @@
-# Grégoire Hernu — Développeur Web & Cybersécurité
+# Grégoire Hernu
 
-![Banner](https://speed.grgoire.fr/images/banner.svg)
+<div align="center">
 
-Bienvenue sur mon profil. Je suis développeur web passionné par la sécurité informatique. Je crée des applications web performantes, accessibles et sûres.
+[![Website](https://img.shields.io/badge/Website-grgoire.fr-70a1ff)](https://grgoire.fr)
+[![CV](https://img.shields.io/badge/Télécharger%20CV-PDF-ff4757)](https://grgoire.fr/uploads/Hernu%20Gr%C3%A9goire.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-@grgoire--dev-000000?logo=github)](https://github.com/grgoire-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gr%C3%A9goire%20Hernu-0A66C2?logo=linkedin)](https://www.linkedin.com/in/gr%C3%A9goire-hernu-257042346/)
 
+</div>
 
-## 🔎 À propos
+---
 
-- Nom : Grégoire Hernu
-- Rôle : Développeur Web & Cybersécurité
+## 👋 À propos
+
+Je m'appelle Grégoire Hernu — développeur web & passionné de cybersécurité. Je transforme des idées complexes en expériences numériques sécurisées et performantes. J'ai travaillé sur des projets variés : plateformes web, bots Discord, interfaces immersives pour le roleplay, et CTFs pédagogiques.
+
 - Localisation : France
 - Contact : dev.grgoire@gmail.com
+- CV : https://grgoire.fr/uploads/Hernu%20Gr%C3%A9goire.pdf
 
+---
 
-## 🧭 Compétences
+## 🛠️ Compétences
 
-- Frontend : HTML, CSS, JavaScript, React
-- Backend : PHP, Node.js, APIs REST
-- Sécurité : Pentesting basique, TryHackMe, bonnes pratiques OWASP
-- Bases de données : MySQL, PostgreSQL
-- Outils : Git, Docker, VSCode
+Langages & Frameworks
 
+- HTML5 (Avancé)
+- CSS3 (Avancé)
+- JavaScript (Avancé)
+- PHP (Avancé)
+- Python (Intermédiaire)
+- SQL / MySQL (Avancé)
+
+Outils & Environnements
+
+- VS Code, Git, GitHub
+- Kali Linux, Nmap, TryHackMe
+- Flipper Zero (RFID/NFC/Sub-GHz)
+- GIMP, Canva, Photoshop
+
+---
+
+## 🚀 Projets sélectionnés
+
+### Gest Corp
+Développeur pour Gest Corp — plateforme de gestion pour jeunes sapeurs-pompiers.
+- Tech : HTML, CSS, JavaScript, PHP
+- Voir le site : https://gest-corp.fr
+
+### Ozanam CyberQuest
+CTF pédagogique créé pour le lycée Frédéric Ozanam.
+- Tech : HTML, CSS, JavaScript, PHP / Python (version Py)
+- Repo : https://github.com/grgoire-dev/OzanamCyberQuest
+
+### Portfolio V1
+Première version de mon portfolio personnel.
+- Démo : https://grgoire-dev.github.io/Portfolio/
+
+### Ozanam Cyberquest Py
+Refonte Python du CTF (Flask + SQLAlchemy).
+- Repo : https://github.com/grgoire-dev/cyberVersionPython
+
+### Passion RP & Tablette RP
+Interfaces et sites pour serveur GTA RolePlay.
+- Repo : https://github.com/grgoire-dev/WebsitePassionRPFA
+
+### Vin's Moniteur
+Site vitrine professionnel (premier projet client).
+- Site : https://vins-moniteur.fr
+
+### Bots Discord
+- Bot Discord RP (gestion des prises de services) : https://github.com/grgoire-dev/botPassionRPFA
+- Bot Discord CTF (leaderboard) : https://github.com/grgoire-dev/BOTOZANAM
+
+---
 
 ## 🏆 Certifications
 
-### Introduction to Cyber Security — TryHackMe
-- Délivré : Janv. 2025
-- ID : `THM-CSIUHCAW47` (copiable)
-- Voir sur TryHackMe : https://tryhackme.com/r/p/grgoire
+- TryHackMe — Introduction to Cyber Security (Délivré en janvier 2025) — https://tryhackme.com/r/p/grgoire
+- Pix — Certification des compétences numériques (Score: 643) — ID : P-V648H23W
 
-### PIX — Lycée Frédéric Ozanam
-- Date de passage : 23/01/2025
-- Score : 643
+---
 
+## 📄 CV
 
-## 📁 Projets sélectionnés
+Télécharger : https://grgoire.fr/uploads/Hernu%20Gr%C3%A9goire.pdf
 
-- Gest Corp — Système de gestion (HTML/CSS/PHP)
-- Ozanam Cyberquest — Challenge CTF / plateforme éducative
-- Portfolio V1 — Vitrine personnelle
-
-
-## 🧾 Certifications intégrées
-
-![Badge](https://speed.grgoire.fr/images/badge.svg)  
-*Voir la section `certifications` sur le site pour plus de détails.*
-
+---
 
 ## 📫 Contact
 
 - Email : dev.grgoire@gmail.com
-- LinkedIn : https://www.linkedin.com/in/gr%C3%A9goire-hernu-257042346/
 - GitHub : https://github.com/grgoire-dev
-
-
-## 🚀 Déploiement (GitHub Pages)
-
-1. Créez un repository public `grgoire-portfolio` et poussez ce dossier.
-2. Dans les paramètres du repo, activez GitHub Pages depuis la branche `main` et le dossier `/`.
-3. Pour utiliser `speed.grgoire.fr` ou `grgoire.fr`, ajoutez un fichier `CNAME` contenant `speed.grgoire.fr` et configurez un enregistrement DNS A/ALIAS vers GitHub Pages.
-
+- LinkedIn : https://www.linkedin.com/in/gr%C3%A9goire-hernu-257042346/
+- Discord : 894100395650072647
 
 ---
 
-Si vous voulez, je peux générer aussi une page `index.html` minimaliste prête à déployer sous `speed.grgoire.fr` (avec les mêmes assets locaux). Dites-moi si vous voulez que je l'ajoute ici.
+Merci de votre visite — n'hésitez pas à me contacter si vous souhaitez collaborer !
