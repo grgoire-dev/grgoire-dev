@@ -1,5 +1,5 @@
 # 🚀 Grégoire Hernu - Développeur Web & Cybersécurité
-
+ 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=FF4757&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+GitHub!;Développeur+Web+%26+Cybersécurité;Passionné+par+l'innovation+et+la+sécurité" alt="Typing SVG" />
 </div>
