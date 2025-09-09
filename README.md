@@ -1,100 +1,62 @@
+<!-- Hero image displayed on GitHub profile -->
+<p align="center">
+	<img alt="Grégoire Hernu" src="https://speed.grgoire.fr/1753696829424.jpeg" width="420" style="border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.08)" />
+</p>
+
 # Grégoire Hernu
 
-<div align="center">
+Développeur Web • Cybersécurité
 
-[![Website](https://img.shields.io/badge/Website-grgoire.fr-70a1ff)](https://grgoire.fr)
-[![CV](https://img.shields.io/badge/Télécharger%20CV-PDF-ff4757)](https://grgoire.fr/uploads/Hernu%20Gr%C3%A9goire.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-@grgoire--dev-000000?logo=github)](https://github.com/grgoire-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gr%C3%A9goire%20Hernu-0A66C2?logo=linkedin)](https://www.linkedin.com/in/gr%C3%A9goire-hernu-257042346/)
-
-</div>
+Je conçois des sites et applications web sécurisées, performantes et agréables à utiliser. Sur ce dépôt vous trouverez une version interactive de mon profil et mon portfolio.
 
 ---
 
-## 👋 À propos
+Vue rapide
+- Rôle : Développeur Web & Cybersécurité
+- Contact : [dev.grgoire@gmail.com](mailto:dev.grgoire@gmail.com)
+- CV : [Télécharger mon CV](https://grgoire.fr/uploads/Hernu%20Gr%C3%A9goire.pdf)
 
-Je m'appelle Grégoire Hernu — développeur web & passionné de cybersécurité. Je transforme des idées complexes en expériences numériques sécurisées et performantes. J'ai travaillé sur des projets variés : plateformes web, bots Discord, interfaces immersives pour le roleplay, et CTFs pédagogiques.
+Accès rapide
+- Voir la page profil légère (optimisée README) : [`profile.html`](./profile.html)
+- Voir la page complète (toutes les démos & modaux) : [`index.html`](./index.html)
 
-- Localisation : France
-- Contact : dev.grgoire@gmail.com
-- CV : https://grgoire.fr/uploads/Hernu%20Gr%C3%A9goire.pdf
+Projets en vedette
 
----
+- Gest Corp — site professionnel (HTML/CSS/JS/PHP) — https://gest-corp.fr
+- Ozanam Cyberquest — CTF éducatif (PHP / Python) — https://github.com/grgoire-dev/OzanamCyberQuest
+- Portfolio V1 — frontend & animations — https://grgoire-dev.github.io/Portfolio/
 
-## 🛠️ Compétences
+Compétences clés
 
-Langages & Frameworks
+- Frontend : HTML, CSS, JavaScript
+- Backend : PHP, Python
+- Bases de données : MySQL, SQLite
+- Cybersécurité : Kali, Nmap, Flipper Zero, CTF
 
-- HTML5 (Avancé)
-- CSS3 (Avancé)
-- JavaScript (Avancé)
-- PHP (Avancé)
-- Python (Intermédiaire)
-- SQL / MySQL (Avancé)
+Certifications
 
-Outils & Environnements
+- TryHackMe — Introduction to Cyber Security (ID: THM-CSIUHCAW47)
+- Pix — Certification des compétences numériques
 
-- VS Code, Git, GitHub
-- Kali Linux, Nmap, TryHackMe
-- Flipper Zero (RFID/NFC/Sub-GHz)
-- GIMP, Canva, Photoshop
+Comment prévisualiser localement
 
----
+1. Ouvrez `profile.html` ou `index.html` dans votre navigateur (double-clique). 
+2. Depuis PowerShell (Windows) :
 
-## 🚀 Projets sélectionnés
+```powershell
+Start-Process 'c:\Users\GREGH\Downloads\speed\profile.html'
+```
 
-### Gest Corp
-Développeur pour Gest Corp — plateforme de gestion pour jeunes sapeurs-pompiers.
-- Tech : HTML, CSS, JavaScript, PHP
-- Voir le site : https://gest-corp.fr
+Conseils rapides
+- Pour modifier le contenu visible ici : éditez `profile.html` (fichier léger pour GitHub) ou `index.html` (page complète). 
+- Remplacez les images locales dans le repo (`1753696829424.jpeg`, `projectbox1.png`, etc.) pour personnaliser l'apparence.
 
-### Ozanam CyberQuest
-CTF pédagogique créé pour le lycée Frédéric Ozanam.
-- Tech : HTML, CSS, JavaScript, PHP / Python (version Py)
-- Repo : https://github.com/grgoire-dev/OzanamCyberQuest
+Réseaux
 
-### Portfolio V1
-Première version de mon portfolio personnel.
-- Démo : https://grgoire-dev.github.io/Portfolio/
-
-### Ozanam Cyberquest Py
-Refonte Python du CTF (Flask + SQLAlchemy).
-- Repo : https://github.com/grgoire-dev/cyberVersionPython
-
-### Passion RP & Tablette RP
-Interfaces et sites pour serveur GTA RolePlay.
-- Repo : https://github.com/grgoire-dev/WebsitePassionRPFA
-
-### Vin's Moniteur
-Site vitrine professionnel (premier projet client).
-- Site : https://vins-moniteur.fr
-
-### Bots Discord
-- Bot Discord RP (gestion des prises de services) : https://github.com/grgoire-dev/botPassionRPFA
-- Bot Discord CTF (leaderboard) : https://github.com/grgoire-dev/BOTOZANAM
-
----
-
-## 🏆 Certifications
-
-- TryHackMe — Introduction to Cyber Security (Délivré en janvier 2025) — https://tryhackme.com/r/p/grgoire
-- Pix — Certification des compétences numériques (Score: 643) — ID : P-V648H23W
-
----
-
-## 📄 CV
-
-Télécharger : https://grgoire.fr/uploads/Hernu%20Gr%C3%A9goire.pdf
-
----
-
-## 📫 Contact
-
-- Email : dev.grgoire@gmail.com
 - GitHub : https://github.com/grgoire-dev
 - LinkedIn : https://www.linkedin.com/in/gr%C3%A9goire-hernu-257042346/
-- Discord : 894100395650072647
+- TryHackMe : https://tryhackme.com/r/p/grgoire
 
 ---
 
-Merci de votre visite — n'hésitez pas à me contacter si vous souhaitez collaborer !
+Si tu veux que je rende ce README encore plus visuel (badges, GIFs, captures d'écran, sections projet développées), indique les éléments à ajouter et je m'en occupe.
