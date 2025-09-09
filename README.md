@@ -213,4 +213,4 @@ Passionné par le développement web et la cybersécurité, je transforme des id
 <img src="https://komarev.com/ghpvc/?username=grgoire-dev&color=ff4757&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 
 </div></content>
-<parameter name="filePath">c:\Users\GREGH\Downloads\speed\README.md
+<parameter name="filePath">
