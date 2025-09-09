@@ -57,7 +57,6 @@ Salut ! Je suis **Grégoire Hernu**, un développeur web passionné spécialisé
           </a>
         </p>
         <p align="center">
-          Application web sécurisée avec authentification avancée et protection contre les attaques courantes.
           <br><br>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Demo-FF4757?style=for-the-badge&logo=firefox&logoColor=white" alt="Demo" />
@@ -75,7 +74,6 @@ Salut ! Je suis **Grégoire Hernu**, un développeur web passionné spécialisé
           </a>
         </p>
         <p align="center">
-          Site web moderne avec animations fluides et design responsive.
           <br><br>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Demo-FF4757?style=for-the-badge&logo=firefox&logoColor=white" alt="Demo" />
