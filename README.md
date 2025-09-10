@@ -56,7 +56,6 @@ Salut ! Je suis **Grégoire Hernu**, un développeur web passionné spécialisé
           </a>
         </p>
         <p align="center">
-          <br><br>
           <a href="[#](https://gest-corp.fr/)" target="_blank">
             <img src="https://img.shields.io/badge/Demo-FF4757?style=for-the-badge&logo=firefox&logoColor=white" alt="Demo" />
           </a>
@@ -69,7 +68,6 @@ Salut ! Je suis **Grégoire Hernu**, un développeur web passionné spécialisé
           </a>
         </p>
         <p align="center">
-          <br><br>
           <a href="https://github.com/grgoire-dev/OzanamCyberQuest" target="_blank">
             <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
           </a>
