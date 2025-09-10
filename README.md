@@ -12,8 +12,8 @@
 
 Salut ! Je suis **Grégoire Hernu**, un développeur web passionné spécialisé en cybersécurité. J'aime créer des expériences web modernes et sécurisées, en combinant créativité et rigueur technique.
 
-- 🌟 **Spécialités** : Développement web full-stack, cybersécurité, design UX/UI
-- 💼 **Actuellement** : En recherche d'opportunités professionnelles
+- 🌟 **Spécialités** : Développement web, cybersécurité
+- 💼 **Actuellement** : Première année à l’ESGI Reims
 - 🎯 **Objectif** : Contribuer à des projets innovants et sécurisés
 - 📍 **Localisation** : France
 
@@ -50,7 +50,6 @@ Salut ! Je suis **Grégoire Hernu**, un développeur web passionné spécialisé
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🔒 Système de Sécurité Web</h3>
         <p align="center">
           <a href="#" target="_blank">
             <img src="https://speed.grgoire.fr/email/projectbox1.png" width="100%" alt="Security System"/>
@@ -58,16 +57,12 @@ Salut ! Je suis **Grégoire Hernu**, un développeur web passionné spécialisé
         </p>
         <p align="center">
           <br><br>
-          <a href="#" target="_blank">
+          <a href="[#](https://gest-corp.fr/)" target="_blank">
             <img src="https://img.shields.io/badge/Demo-FF4757?style=for-the-badge&logo=firefox&logoColor=white" alt="Demo" />
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
           </a>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">🎨 Portfolio Interactif</h3>
         <p align="center">
           <a href="#" target="_blank">
             <img src="https://speed.grgoire.fr/email/projectbox2.png" width="100%" alt="Portfolio"/>
@@ -75,10 +70,7 @@ Salut ! Je suis **Grégoire Hernu**, un développeur web passionné spécialisé
         </p>
         <p align="center">
           <br><br>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-FF4757?style=for-the-badge&logo=firefox&logoColor=white" alt="Demo" />
-          </a>
-          <a href="#" target="_blank">
+          <a href="https://github.com/grgoire-dev/OzanamCyberQuest" target="_blank">
             <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
           </a>
         </p>
@@ -105,17 +97,15 @@ Salut ! Je suis **Grégoire Hernu**, un développeur web passionné spécialisé
 ## 📞 Contact
 
 <div align="center">
-  <a href="mailto:gregory.hernu@gmail.com">
+   <a href="https://speed.grgoire.fr/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF4757?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="mailto:dev.grgoire@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/gregoire-hernu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/grgoire-dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://grgoire-dev.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF4757?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
