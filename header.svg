@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="210" viewBox="0 0 860 210" fill="none">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#21262d" />
+    </pattern>
+    <radialGradient id="glow" cx="85%" cy="20%" r="55%">
+      <stop offset="0%" stop-color="#ff4757" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff4757" />
+      <stop offset="60%" stop-color="#ff4757" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#ff4757" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="860" height="210" rx="14" fill="#0d1117" />
+  <rect width="860" height="210" rx="14" fill="url(#grid)" opacity="0.9" />
+  <rect width="860" height="210" rx="14" fill="url(#glow)" />
+  <rect x="0.5" y="0.5" width="859" height="209" rx="13.5" stroke="#21262d" />
+
+  <!-- Top status pill -->
+  <rect x="44" y="34" width="214" height="26" rx="13" fill="#161b22" stroke="#30363d" />
+  <circle cx="60" cy="47" r="4" fill="#ff4757" />
+  <text x="72" y="51" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="500">ESGI Reims · Cybersécurité</text>
+
+  <!-- Main Title -->
+  <text x="44" y="106" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-0.8">Grégoire Hernu</text>
+
+  <!-- Accent divider -->
+  <rect x="44" y="122" width="320" height="2" rx="1" fill="url(#accentLine)" />
+
+  <!-- Subtitle -->
+  <text x="44" y="152" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400">Sécurité Offensive &amp; Défensive · CTF · Infrastructure &amp; Homelab Proxmox</text>
+
+  <!-- Bottom domain / handle -->
+  <text x="44" y="182" fill="#ff4757" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="600">grgoire.fr</text>
+  <text x="132" y="182" fill="#484f58" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">·</text>
+  <text x="148" y="182" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">lexploit.fr</text>
+  <text x="242" y="182" fill="#484f58" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">·</text>
+  <text x="258" y="182" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">@grgoire-dev</text>
+
+  <!-- Right subtle terminal decoration -->
+  <rect x="640" y="34" width="176" height="142" rx="10" fill="#161b22" fill-opacity="0.75" stroke="#21262d" />
+  <circle cx="656" cy="50" r="3.5" fill="#ff4757" opacity="0.8" />
+  <circle cx="668" cy="50" r="3.5" fill="#30363d" />
+  <circle cx="680" cy="50" r="3.5" fill="#30363d" />
+  <text x="656" y="78" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">$ whoami</text>
+  <text x="656" y="96" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">grgoire</text>
+  <text x="656" y="120" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">$ tryhackme --rank</text>
+  <text x="656" y="138" fill="#ff4757" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">top 5% (#114047)</text>
+  <text x="656" y="160" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">$ _</text>
+</svg>
