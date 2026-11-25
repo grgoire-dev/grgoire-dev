@@ -48,38 +48,38 @@ Auto-hébergé sur **HP Z420 Workstation** (*Intel Xeon E5-2689 · 16 Threads ·
 <table>
   <tr>
     <td width="50%" valign="top">
+      <b>HERA NGFW</b> <sub>2026-2027</sub><br/>
+      Projet annuel de 2ème année à l'ESGI Reims : conception et développement d'un Next-Generation Firewall.<br/>
+      <sub><code>NGFW</code> · <code>Cybersécurité</code> · <code>Réseau</code></sub>
+    </td>
+    <td width="50%" valign="top">
       <b><a href="https://laocoon.grgoire.fr">Laocoon Antivirus</a></b> <sub>2025-2026</sub><br/>
-      Solution de détection complète : analyse comportementale, filtrage temps réel, quarantaine et sandbox cloud en VM isolée.<br/>
+      Projet annuel de 1ère année : analyse comportementale, filtrage temps réel, quarantaine et sandbox cloud en VM isolée.<br/>
       <sub><code>Malware Analysis</code> · <code>Sandbox</code> · <code>Rust</code> · <code>C++</code> · <code>Tauri</code></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <b><a href="https://lexploit.fr">L'Exploit</a></b> <sub>Éditorial</sub><br/>
       Journal numérique indépendant dédié au décryptage des vulnérabilités, des réseaux et de l'actualité cyber (<i>Chroniques du Pare-Feu</i>, <i>Édito du Root</i>).<br/>
       <sub><code>Veille Cyber</code> · <code>Réseaux</code> · <code>Direction de publication</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/grgoire-dev/OzanamCyberQuest">Ozanam CyberQuest</a></b> &amp; <b><a href="https://github.com/grgoire-dev/cyberVersionPython">Version Python</a></b><br/>
       CTF officiel du lycée Frédéric Ozanam (crypto, SQLi, analyse de code, stéganographie), refondu sous Flask/SQLAlchemy pour les Trophées NSI 2024.<br/>
       <sub><code>CTF</code> · <code>Python</code> · <code>Flask</code> · <code>PHP</code></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/grgoire-dev/BOTOZANAM">Bot Discord CTF</a></b> &amp; <b><a href="https://github.com/grgoire-dev/botPassionRPFA">Bot Discord RP</a></b><br/>
       Bots Python : suivi temps réel des classements CTF, alertes de résolution et automatisation de services avec base SQLite.<br/>
       <sub><code>Python</code> · <code>SQLite</code> · <code>Discord API</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <b><a href="https://gest-corp.fr">Gest Corp</a></b> <sub>2023</sub><br/>
-      Participation au développement de la plateforme française de gestion des Jeunes Sapeurs-Pompiers.<br/>
-      <sub><code>PHP</code> · <code>JavaScript</code> · <code>HTML/CSS</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Musée Saint-Remi</b> · <b><a href="https://vins-moniteur.fr">Vin's Moniteur</a></b> · <b><a href="https://github.com/grgoire-dev/WebsitePassionRPFA">Passion RP</a></b> · <b><a href="https://grgoire-dev.github.io/Portfolio/">Portfolio V1</a></b><br/>
-      Application mobile AR/géolocalisation pour le Musée Saint-Remi (Dart/Flutter), sites web en production (depuis 2019) et interface Tablette RP.<br/>
-      <sub><code>Dart</code> · <code>Flutter</code> · <code>Web</code></sub>
+      <b><a href="https://gest-corp.fr">Gest Corp</a></b> · <b>Musée Saint-Remi</b> · <b><a href="https://vins-moniteur.fr">Vin's Moniteur</a></b> · <b><a href="https://github.com/grgoire-dev/WebsitePassionRPFA">Passion RP</a></b> · <b><a href="https://grgoire-dev.github.io/Portfolio/">Portfolio V1</a></b><br/>
+      Plateforme JSP Gest Corp (2023), app mobile Musée Saint-Remi (Dart/Flutter), sites web en production (depuis 2019) et Tablette RP.<br/>
+      <sub><code>Dart</code> · <code>Flutter</code> · <code>PHP</code> · <code>Web</code></sub>
     </td>
   </tr>
 </table>
