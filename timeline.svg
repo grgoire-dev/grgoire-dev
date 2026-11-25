@@ -1,31 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="120" viewBox="0 0 880 120" fill="none">
   <rect x="0.5" y="0.5" width="879" height="119" rx="10" fill="#0d1117" stroke="#262c36" />
 
-  <!-- Evenly spaced track: 110 -> 330 -> 550 -> 770 -->
-  <line x1="110" y1="44" x2="550" y2="44" stroke="#262c36" stroke-width="2" />
-  <line x1="550" y1="44" x2="770" y2="44" stroke="#ff4757" stroke-width="2" />
+  <!-- Evenly spaced track: 85 -> 262.5 -> 440 -> 617.5 -> 795 (177.5px step) -->
+  <line x1="85" y1="44" x2="617.5" y2="44" stroke="#262c36" stroke-width="2" />
+  <line x1="617.5" y1="44" x2="795" y2="44" stroke="#ff4757" stroke-width="2" />
 
   <!-- Node 1: 2018-2019 -->
-  <circle cx="110" cy="44" r="5" fill="#0d1117" stroke="#8b949e" stroke-width="2" />
-  <text x="110" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600">2018-2019</text>
-  <text x="110" y="70" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Arduino &amp; 1er Site</text>
-  <text x="110" y="88" text-anchor="middle" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">Vin's Moniteur (15 ans)</text>
+  <circle cx="85" cy="44" r="5" fill="#0d1117" stroke="#8b949e" stroke-width="2" />
+  <text x="85" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600">2018-2019</text>
+  <text x="85" y="70" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Arduino &amp; 1er Site</text>
+  <text x="85" y="88" text-anchor="middle" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5">Vin's Moniteur (15 ans)</text>
 
   <!-- Node 2: 2022-2023 -->
-  <circle cx="330" cy="44" r="5" fill="#0d1117" stroke="#8b949e" stroke-width="2" />
-  <text x="330" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600">2022-2023</text>
-  <text x="330" y="70" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Ozanam CyberQuest</text>
-  <text x="330" y="88" text-anchor="middle" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">Gest Corp · Passion RP</text>
+  <circle cx="262.5" cy="44" r="5" fill="#0d1117" stroke="#8b949e" stroke-width="2" />
+  <text x="262.5" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600">2022-2023</text>
+  <text x="262.5" y="70" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Ozanam CyberQuest</text>
+  <text x="262.5" y="88" text-anchor="middle" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5">Gest Corp · Passion RP</text>
 
   <!-- Node 3: 2024-2025 -->
-  <circle cx="550" cy="44" r="5" fill="#0d1117" stroke="#8b949e" stroke-width="2" />
-  <text x="550" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600">2024-2025</text>
-  <text x="550" y="70" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Trophées NSI &amp; Bac</text>
-  <text x="550" y="88" text-anchor="middle" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">Spé NSI - Maths (Ozanam)</text>
+  <circle cx="440" cy="44" r="5" fill="#0d1117" stroke="#8b949e" stroke-width="2" />
+  <text x="440" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600">2024-2025</text>
+  <text x="440" y="70" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Trophées NSI &amp; Bac</text>
+  <text x="440" y="88" text-anchor="middle" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5">Spé NSI - Maths (Ozanam)</text>
 
-  <!-- Node 4: 2025-2027 (Current) -->
-  <circle cx="770" cy="44" r="6" fill="#ff4757" />
-  <text x="770" y="26" text-anchor="middle" fill="#ff4757" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700">2025-2027</text>
-  <text x="770" y="70" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">ESGI Reims (2ème année)</text>
-  <text x="770" y="88" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">Laocoon Antivirus · L'Exploit</text>
+  <!-- Node 4: 2025-2026 (1re année ESGI) -->
+  <circle cx="617.5" cy="44" r="5" fill="#0d1117" stroke="#8b949e" stroke-width="2" />
+  <text x="617.5" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600">2025-2026</text>
+  <text x="617.5" y="70" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">ESGI Reims (1re année)</text>
+  <text x="617.5" y="88" text-anchor="middle" fill="#6e7681" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5">Laocoon Antivirus</text>
+
+  <!-- Node 5: 2026-2027 (2e année ESGI - Current) -->
+  <circle cx="795" cy="44" r="6" fill="#ff4757" />
+  <text x="795" y="26" text-anchor="middle" fill="#ff4757" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="700">2026-2027</text>
+  <text x="795" y="70" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">ESGI Reims (2e année)</text>
+  <text x="795" y="88" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5">HERA NGFW · L'Exploit</text>
 </svg>
